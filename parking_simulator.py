@@ -34,7 +34,7 @@ SPOTS_CONFIG = [
     {'id': 'B5', 'pos': (750, 400), 'status': 'FREE'},
 ]
 
-# --- Global State ---
+# ----- Global State -----
 gate_open = False
 car_state = "APPROACHING" 
 log_messages = ["> System Ready."]
