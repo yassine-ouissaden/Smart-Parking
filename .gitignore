@@ -1,0 +1,14 @@
+# Ignore Python temporary files
+__pycache__/
+*.pyc
+
+# Ignore Virtual Environments (if you used one)
+venv/
+env/
+.env
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore VS Code settings
+.vscode/
