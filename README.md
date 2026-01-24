@@ -12,3 +12,9 @@ A complete IoT Digital Twin for smart parking management, featuring a real-time 
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+3. Run MQTT Server
+   ```bash
+   python server_mqtt.py
+4. Run Parking Simulation
+   ```bash
+   python parking_simulator_mqtt.py 
