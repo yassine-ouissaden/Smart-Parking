@@ -28,14 +28,14 @@ CAR_SPEED = 5
 
 SPOTS_CONFIG = [
     {'id': 'A1', 'pos': (350, 100), 'status': 'FREE'},
-    {'id': 'A2', 'pos': (450, 100), 'status': 'FREE'},
+    {'id': 'A2', 'pos': (450, 100), 'status': 'OCCUPIED'},
     {'id': 'A3', 'pos': (550, 100), 'status': 'FREE'},
-    {'id': 'A4', 'pos': (650, 100), 'status': 'FREE'},
+    {'id': 'A4', 'pos': (650, 100), 'status': 'OCCUPIED'},
     {'id': 'A5', 'pos': (750, 100), 'status': 'FREE'},
     {'id': 'B1', 'pos': (350, 400), 'status': 'FREE'},
-    {'id': 'B2', 'pos': (450, 400), 'status': 'FREE'},
+    {'id': 'B2', 'pos': (450, 400), 'status': 'OCCUPIED'},
     {'id': 'B3', 'pos': (550, 400), 'status': 'FREE'},
-    {'id': 'B4', 'pos': (650, 400), 'status': 'FREE'},
+    {'id': 'B4', 'pos': (650, 400), 'status': 'OCCUPIED'},
     {'id': 'B5', 'pos': (750, 400), 'status': 'FREE'},
 ]
 
